@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppExe2BancoImobiliario</string>
+    <string name="banco_imobiliario">Banco Imobiliario</string>
+    <string name="jogador1">Jogador 1</string>
+    <string name="resultado">"Saldo Atual do Jogador 1:</string>
+    <string name="informe_o_saldo_atual">Informe o Saldo Atual</string>
+    <string name="valor_a_ser_aplicado">Valor a Ser aplicado</string>
+    <string name="calcula">Deposita</string>
+    <string name="resultado2">Saldo Atual do Jogador 2</string>
+    <string name="transfere">Transfere</string>
+    <string name="jogador_2">Jogador 2</string>
+    <string name="deposita">Deposita</string>
+    <string name="transfere2">Transfere</string>
+</resources>
